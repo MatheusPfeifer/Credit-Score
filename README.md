@@ -11,6 +11,8 @@ Um modelo de score de crédito é bastante eficiente para uma empresa que oferec
 
 Os dados para o problema são encontrado em: http://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.data
 
+A solução do problema detalha, com o código se encontra em [Codigo de risco crédito](https://github.com/MatheusPfeifer/Credit-Score/blob/main/Risco_Credito.ipynb)
+
 ## 2. Plano de Solução
 Como foi dito anteriormente, iremos utilizar Machine Learning para identificar o risco de crédito de clientes, baseado em dados históricos. O processo de análise foi divido em:
 - Entendimento do problema de negócio
